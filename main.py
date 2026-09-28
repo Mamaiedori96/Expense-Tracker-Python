@@ -191,6 +191,3 @@ while True:
 
     else:
         print("❌ Optiune invalida! Alege un numar intre 1 si 6.")
-        
-        
-        
